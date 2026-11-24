@@ -6,7 +6,7 @@ Software engineer from Islamabad, Pakistan. I build backends, APIs and data pipe
 
 ### What I've built
 
-- **Medical study platform** (freelance, private client): built end to end on my own and used by about 150–200 students. React, TypeScript, .NET 8, PostgreSQL, Redis. Subscriptions, payments, licence keys and an AI agent that builds each student a personal practice plan from their results.
+- **MedQBank** (freelance, private client): a medical question-bank platform I built end to end on my own, used by the client and his team. .NET 8 modular monolith (15+ modules, schema-per-module PostgreSQL, Redis) with a React + TypeScript frontend. Licence keys, resellers, role-based access, 2FA with device binding, and an AI agent that builds each student a personal practice plan from their results. Covered by integration tests per module plus Playwright end-to-end tests. *(Code is private.)*
 - **[CivicSense](https://github.com/AnasCodeVerse/CivicSense)**: app for reporting civic problems in Pakistan. On-device image model (about 92% accuracy) that recognises potholes and garbage, plus location-based routing to the right local office. Final-year project and team lead, 3rd place at BUIC Open House.
 - **[LLM Security Gateway](https://github.com/AnasCodeVerse/llm-security-gateway)**: checks prompts before they reach an LLM, blocking prompt injection and masking personal data with Microsoft Presidio.
 - **[GDG Live](https://github.com/AnasCodeVerse/GDG-Live)**: live schedule and visitor guide for DevFest Berlin 2026, as a single HTML file with no backend.
